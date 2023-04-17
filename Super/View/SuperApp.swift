@@ -2,13 +2,13 @@
 //  SuperApp.swift
 //  Super
 //
-//  Created by Shimaa Elcc on 17.4.2023.
+//  Created by Heba Elcc on 17.4.2023.
 //
 
 import SwiftUI
 
 @main
-struct SuperApp: App {
+struct SuperheroApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
